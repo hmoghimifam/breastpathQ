@@ -4,5 +4,6 @@ Neoadjuvant treatment (NAT) of breast cancer (BCa) can be considered as an optio
 In the diagnosis process, a biopsy followed by microscopic image analysis is a common procedure[1]. to visualize different components of the tissue, it is dyed with stains, in this case, hematoxylin and eosin (H&E). It allows pathologists to histologically inspect the structures and components of the breast tissue to determine the cancer cellularity.
 In this report, I will describe a method for the determination of cancer cellularity from whole slide images (WSI) of breast cancer hematoxylin and eosin (H&E) stained pathological slides using convolutional neural networks (CNN). This is a part of a “Grand Challenge” (BreastPathQ) held by the SPIE (the international society for optics and photonics), along with Association of Physicists in Medicine (AAPM), and the National Cancer Institute (NCI).
 
-Read the full report:  <a href="https://github.com/hmoghimifam/breastpathQ/blob/main/Final-Project-BreastPathQ.pdf">link</a> \n
+Read the full report:  <a href="https://github.com/hmoghimifam/breastpathQ/blob/main/Final-Project-BreastPathQ.pdf">link</a> 
+
 See the code: <a href="https://github.com/hmoghimifam/breastpathQ/blob/main/BreastPathQ.ipynbf">link</a>
